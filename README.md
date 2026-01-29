@@ -19,6 +19,6 @@ Mostrar o ambiente configurado em máquinas virtuais para testes e simulações 
 Apresentar o código-fonte utilizado no desenvolvimento do sistema. A descrição e o funcionamento detalhado do código estão explicados na documentação do projeto.
 
 # Documentação:
-[Baixar o arquivo Word](./Documentação_Projeto_Semaforo)
+[Baixar o arquivo Word](./Documentação_Projeto_Semaforo.docx)
 
 # Link Trello: https://trello.com/b/eYgsb3U5/projeto-semaforo
